@@ -12,8 +12,7 @@ Atualmente rodando com:
 - [x] CSS3
 - [x] JAVASCRIPT 
 
-## Telas (responsivas)
-Desktop e mobile
+## Telas 
 <img width="1365" height="766" alt="Image" src="https://github.com/user-attachments/assets/190b3178-ef08-4650-85dc-a3bcf15dbf63" />
 <img width="1365" height="767" alt="Image" src="https://github.com/user-attachments/assets/12e5e46d-b60c-473a-bce5-c01bf3825db4" />
 

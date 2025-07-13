@@ -2,7 +2,7 @@
 Clone da tela de login do Instagram, criada essencialmente com HTML, CSS e Javascript puro, sem qualquer plugin adicional.
 
 ## Sobre o projeto: 
-Este projeto (responsivo) foi inspirado no curso de Front-end do Matheus Battisti. Na época, o Instagram tinha outra interface! Modifiquei sua estrutura para deixá-la semelhante à versão atual.
+Este projeto (responsivo) foi inspirado no curso de Front-end do Matheus Battisti. Na época, o Instagram tinha outra interface! Modifiquei sua estrutura e design para deixá-la semelhante à versão atual.
 Além disso, inclui o JavaScript para validar o login e a senha do usuário.
 
 ## Tecnologias:

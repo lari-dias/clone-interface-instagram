@@ -9,7 +9,7 @@ Na época, a interface do Instagram era diferente, e eu decidi aprimorar a estru
 - Design mais moderno e responsivo, garantindo compatibilidade em diferentes dispositivos;
 - Validação de login e senha em tempo real, com mensagens de erro amigáveis;
 - Código mais organizado e otimizado para facilitar futuras atualizações;
-- 
+  
 ## Tecnologias:
 Atualmente rodando com:
 - [x] HTML5
